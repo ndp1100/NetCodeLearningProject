@@ -1,3 +1,13 @@
 sampleproject/Library/
 sampleproject/Temp/
 sampleproject/obj/
+sampleproject/Unity.Networking.Transport.csproj
+sampleproject/Unity.Networking.Transport.PlayTests.csproj
+sampleproject/Unity.Networking.Transport.EditorTests.csproj
+sampleproject/Unity.Networking.Transport.Editor.csproj
+sampleproject/Unity.NetCode.csproj
+sampleproject/Unity.NetCode.Editor.csproj
+sampleproject/Asteroids.Server.csproj
+sampleproject/Asteroids.Mixed.csproj
+sampleproject/Asteroids.Client.csproj
+sampleproject/Assembly-CSharp.csproj
