@@ -9,7 +9,7 @@ using Unity.Networking.Transport;
 #endif
 public class AsteroidsClientServerControlSystem : ComponentSystem
 {
-    private const ushort networkPort = 50001;
+    private const ushort networkPort = 51246;
     private bool m_initializeClientServer;
 
     protected override void OnCreateManager()
